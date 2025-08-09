@@ -35,6 +35,11 @@ It simulates **real-world enterprise IT operations** with secure file sharing, c
 | Security              | SSL/TLS, SMTP |
 
 ---
+## 📷 Screenshots
+
+### 1. System Architecture
+![System Architecture](System Architecture.png)
+
 
 ## 🎯 Skills Demonstrated
 - Linux Server Administration
