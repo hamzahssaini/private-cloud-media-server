@@ -38,7 +38,7 @@ It simulates **real-world enterprise IT operations** with secure file sharing, c
 ## 📷 Screenshots
 
 ### 1. System Architecture
-![System Architecture](System Architecture.png)
+![System Architecture](System_Architecture.png)
 
 
 ## 🎯 Skills Demonstrated
